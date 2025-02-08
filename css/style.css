@@ -1015,8 +1015,8 @@ section {
 
 .home-button {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 75px;
+  right: 15px;
   width: 50px;
   height: 50px;
   background-color: #f5bf23;
@@ -1115,4 +1115,14 @@ designer-link {
 
 .social-link:hover {
   color: #e22d00; /* Change to your brand color */
+}
+#muzammil {
+  color: #002331;  /* Customize color */
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#muzammil:hover {
+  color: #c06a07;  /* Hover color */
+  text-decoration: underline;
 }
